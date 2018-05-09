@@ -4,17 +4,13 @@ Hopefully some of this will be useful for people just getting into sabemetrics. 
 
 Plans:
 
-Section 1: WAR
+Section 1: Position Players
 
-1.1 Offensive WAR
-1.2 Defensive WAR
-1.3 Team WAR
+1.1 wOBA
+1.2 BaseRunning
+1.3 Defensive Stats
 
-Section 2: Offensive Stats
-1.1 wOBA and WRC+
-1.2 OPS+
-1.3 Baserunning
-
-Section 3: Defensive Stats
-1.1 UZR
-1.2 DRS
+Section 2: WAR
+2.1 Offsensive WAR
+2.2 Defensive WAR
+2.3 Team WAR
